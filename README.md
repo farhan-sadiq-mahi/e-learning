@@ -1,7 +1,7 @@
 ### E-learning
 
 ## Welcome to my E-learning site repo
-##Live site Link 
+
 #### Live link `https://e-learning-9c259.web.app/`
 
 Features and Functionality :
@@ -27,4 +27,4 @@ Features and Functionality :
 * React To PDF
 * React Icon
 
-###Thanks For Visiting
+### Thanks For Visiting
